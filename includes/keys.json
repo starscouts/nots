@@ -1,0 +1,26 @@
+{
+  "3ddedef85a604948d27cb6a73efb461c3c721bfc276c344286f75c2d516a4a2946301261f043adc8d372a5002a4b8e83fe4b479fd0cb77b12386bd1f05deae4e08bb728cee11fc4d8057d3d873aae3fea9571d0c6c22afe702892869fd19d35f1427f45b8bd9eb094f3dbac54baf85f08a6c6e6da59d527d8bc7751a9207bc953c67a51480ff5e9afe0ff8cf3da6bed087200280c7626f346a2be07eff9b635e11de5e994fda7652cbcfdaaa283284da3e72c1bb8e0cd36739ab6dac70b26a007b9f55dda6b0e0699db0022a0121bdae2fe22f190209a8b08c22ab0a6bb32f57f132fc7dbe1915ca59c2077ea1d5b5c4c370b1e7bacd8892cc88f5b366b43b1e": {
+    "name": "Nots 2023 - Période d'essai",
+    "owner": "Raindrops System",
+    "start": "2023-01-19T22:00:00.000Z",
+    "expiration": "2023-02-19T22:00:00.000Z",
+    "email": "contact@minteck.org",
+    "valid": {
+      "url": "https://0450051l.index-education.net/pronote",
+      "id": "0450051L",
+      "all": false
+    }
+  },
+  "4ddedef85a604948d27cb6a73efb461c3c721bfc276c344286f75c2d516a4a2946301261f043adc8d372a5002a4b8e83fe4b479fd0cb77b12386bd1f05deae4e08bb728cee11fc4d8057d3d873aae3fea9571d0c6c22afe702892869fd19d35f1427f45b8bd9eb094f3dbac54baf85f08a6c6e6da59d527d8bc7751a9207bc953c67a51480ff5e9afe0ff8cf3da6bed087200280c7626f346a2be07eff9b635e11de5e994fda7652cbcfdaaa283284da3e72c1bb8e0cd36739ab6dac70b26a007b9f55dda6b0e0699db0022a0121bdae2fe22f190209a8b08c22ab0a6bb32f57f132fc7dbe1915ca59c2077ea1d5b5c4c370b1e7bacd8892cc88f5b366b43b1e": {
+    "name": "Nots 2023 - Développement",
+    "owner": "Raindrops System",
+    "start": "2023-01-19T22:00:00.000Z",
+    "expiration": "2023-01-20T22:00:00.000Z",
+    "email": "contact@minteck.org",
+    "valid": {
+      "url": "http://localhost/pronote",
+      "id": "LOCAL",
+      "all": false
+    }
+  }
+}
